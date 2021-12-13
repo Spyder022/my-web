@@ -1,0 +1,39 @@
+body {
+    background-color: powderblue;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.5rem;
+}
+
+hr {
+    size: 3 noshade;
+}
+
+table {
+    border: outset 10px;
+    gap: 10;
+}
+
+td {
+    border: solid 1px;
+}
+
+img {
+    width: 150px;
+    height: auto;
+}
+
+.center {
+    border: none 0px;
+    
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    background: chocolate;
+    color: #fff;
+}
+
+button:hover {
+    cursor: pointer;
+}
